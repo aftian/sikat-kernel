@@ -1,7 +1,7 @@
 #!/bin/sh
 
 codename=rote
-version=3.1.0-1
+version=3.2.1-2
 
 reprepro remove $codename linux
 reprepro remove $codename block-modules-$version-generic-di &&
